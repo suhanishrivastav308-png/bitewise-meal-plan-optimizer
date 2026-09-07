@@ -1,0 +1,412 @@
+Food,Category,Diet,Meal_Type,Cuisine,Unit,Price,Calories,Protein,Carbs,Fat,Max_Quantity
+Rice,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,60,3500,70,780,10,5.0
+Basmati Rice,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,110,3600,80,790,10,5.0
+Brown Rice,Grain,Vegetarian,"Lunch,Dinner","Indian,International",kg,90,3600,75,760,28,5.0
+Parboiled Rice,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,65,3500,75,770,10,5.0
+Red Rice,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,100,3500,75,760,25,4.0
+Wheat Flour/Atta,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,50,3400,120,720,20,5.0
+Multigrain Atta,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,70,3450,130,680,35,5.0
+Maida,Grain,Vegetarian,"Lunch,Dinner",Indian,kg,45,3640,100,760,15,3.0
+Oats,Grain,"Vegetarian,Vegan",Breakfast,"Indian,Western",kg,120,3890,169,663,69,2.0
+Poha,Grain,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,70,3500,70,770,15,3.0
+Rava/Suji,Grain,"Vegetarian,Vegan",Breakfast,Indian,kg,60,3600,120,720,10,2.0
+Dalia,Grain,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,80,3400,120,700,25,3.0
+Barley,Grain,"Vegetarian,Vegan","Breakfast,Lunch","Indian,European",kg,80,3520,120,730,20,2.0
+Jowar Flour,Millet,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,70,3290,100,720,25,3.0
+Bajra Flour,Millet,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,60,3610,110,670,50,3.0
+Ragi Flour,Millet,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,80,3280,70,720,35,3.0
+Foxtail Millet,Millet,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,130,3500,120,700,35,2.0
+Little Millet,Millet,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,3400,90,700,35,2.0
+Kodo Millet,Millet,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3500,80,720,25,2.0
+Barnyard Millet,Millet,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,3400,60,750,25,2.0
+Quinoa,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner","Indian,Western",kg,250,3680,140,640,60,2.0
+Corn,Grain,"Vegetarian,Vegan","Breakfast,Lunch","Indian,Mexican",kg,80,3600,90,740,45,2.0
+Makai Flour,Grain,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,65,3600,90,760,40,2.0
+Rice Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,70,3660,60,800,10,2.0
+Besan,Pulse Flour,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,100,3870,220,580,60,2.0
+Bread,Grain,Vegetarian,Breakfast,"Indian,Western",kg,90,2650,90,490,35,2.0
+Multigrain Bread,Grain,Vegetarian,Breakfast,"Indian,Western",kg,130,2500,110,430,45,2.0
+Brown Bread,Grain,Vegetarian,Breakfast,"Indian,Western",kg,110,2470,130,410,40,2.0
+Vermicelli,Grain,"Vegetarian,Vegan",Breakfast,Indian,kg,80,3500,120,750,10,2.0
+Toor Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,150,3300,220,600,20,2.0
+Moong Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,130,3470,240,620,15,2.0
+Masoor Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3520,250,600,12,2.0
+Chana Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,3600,200,600,50,2.0
+Urad Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,140,3410,250,590,15,2.0
+Moth Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3430,230,620,12,2.0
+Chickpeas/Kabuli Chana,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Indian,Mediterranean",kg,100,3640,190,610,60,2.0
+Kala Chana,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,90,3650,200,600,60,2.0
+Rajma,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Indian,Mexican",kg,120,3330,240,600,80,2.0
+Lobia,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3360,235,620,15,2.0
+Green Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,100,810,54,145,40,2.0
+Dry Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,100,3400,230,600,15,2.0
+Soybeans,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Indian,Asian",kg,100,4460,360,300,180,2.0
+Soya Chunks,Protein,"Vegetarian,Vegan","Lunch,Dinner","Indian,Asian",kg,180,3450,520,330,10,1.5
+Horse Gram,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,3200,220,570,15,2.0
+Sprouted Moong,Pulse,"Vegetarian,Vegan","Breakfast,Snack,Lunch",Indian,kg,120,300,70,45,8,2.0
+Full Cream Milk,Dairy,Vegetarian,"Breakfast,Snack","Indian,Western",litre,65,640,32,48,36,7.0
+Toned Milk,Dairy,Vegetarian,"Breakfast,Snack",Indian,litre,65,450,32,48,15,7.0
+Double Toned Milk,Dairy,Vegetarian,"Breakfast,Snack",Indian,litre,60,350,34,50,5,7.0
+Curd/Dahi,Dairy,Vegetarian,"Breakfast,Lunch",Indian,kg,80,610,35,47,33,3.0
+Greek Yogurt,Dairy,Vegetarian,"Breakfast,Snack","Indian,Greek,Western",kg,180,600,100,40,20,2.0
+Buttermilk/Chaas,Dairy,Vegetarian,"Breakfast,Lunch",Indian,litre,50,400,16,30,16,5.0
+Paneer,Dairy,Vegetarian,"Lunch,Dinner",Indian,kg,300,2650,180,50,200,1.5
+Low Fat Paneer,Dairy,Vegetarian,"Lunch,Dinner",Indian,kg,350,1800,200,50,100,1.5
+Cheese,Dairy,Vegetarian,"Breakfast,Snack",Western,kg,500,4000,250,130,330,0.5
+Lassi,Dairy,Vegetarian,"Breakfast,Snack",Indian,litre,100,900,35,100,35,3.0
+Eggs,Protein,Non-Vegetarian,"Breakfast,Lunch,Dinner","Indian,Western",dozen,90,930,78,6,66,3.0
+Chicken Breast,Protein,Non-Vegetarian,"Lunch,Dinner","Indian,Western",kg,300,1650,310,0,36,3.0
+Chicken Curry Cut,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,250,1800,270,0,90,3.0
+Chicken Liver,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,250,1350,250,60,45,1.0
+Mutton,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,700,2500,260,0,170,1.0
+Rohu Fish,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,250,1700,200,0,100,2.0
+Katla Fish,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,280,1700,210,0,95,2.0
+Pomfret,Protein,Non-Vegetarian,"Lunch,Dinner",Indian,kg,500,1200,210,0,45,1.0
+Prawns,Protein,Non-Vegetarian,"Lunch,Dinner","Indian,Asian",kg,400,990,240,20,20,1.5
+Potato/Aloo,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,40,770,20,170,0,3.0
+Sweet Potato/Shakarkand,Vegetable,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,60,860,16,200,10,2.0
+Tomato/Tamatar,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Italian,Mexican",kg,50,180,9,39,2,3.0
+Onion/Pyaz,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,International",kg,40,400,11,93,1,3.0
+Carrot/Gajar,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,International",kg,60,410,9,96,2,2.0
+Spinach/Palak,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,International",kg,50,230,29,36,4,2.0
+Methi Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,60,300,40,60,8,1.0
+Cabbage,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Asian",kg,40,250,13,58,1,2.0
+Cauliflower/Gobhi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,60,250,19,50,3,2.0
+Broccoli,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Western",kg,120,340,28,66,4,2.0
+Capsicum/Bell Pepper,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Mexican,Italian",kg,100,200,20,46,2,2.0
+Green Beans,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,International",kg,100,310,19,70,2,2.0
+Bottle Gourd/Lauki,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,40,150,10,35,2,3.0
+Ridge Gourd/Tori,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,60,160,10,38,2,2.0
+Bitter Gourd/Karela,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,60,170,12,35,2,2.0
+Pumpkin/Kaddu,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,American",kg,50,260,10,65,2,2.0
+Brinjal/Baingan,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Mediterranean",kg,50,250,10,60,2,2.0
+Okra/Bhindi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,80,330,20,75,10,2.0
+Cucumber/Kheera,Vegetable,"Vegetarian,Vegan","Lunch,Snack","Indian,Mediterranean",kg,50,150,7,36,1,2.0
+Beetroot,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,70,430,16,100,2,2.0
+Radish/Mooli,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,40,160,7,35,1,2.0
+Turnip/Shalgam,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,50,280,18,60,2,2.0
+Mushroom,Vegetable,"Vegetarian,Vegan","Breakfast,Lunch,Dinner","Indian,Western",kg,180,220,31,33,3,1.5
+Zucchini,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Western,Italian",kg,120,170,12,31,3,2.0
+Drumstick/Sahjan,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,370,20,80,4,2.0
+Green Chilli,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,400,20,90,5,0.5
+Raw Banana,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,50,890,11,230,3,2.0
+Raw Papaya,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,60,430,5,109,3,2.0
+Jackfruit/Kathal,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,950,18,220,3,2.0
+Arbi/Taro,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Asian",kg,80,1120,60,260,20,2.0
+Yam/Suram,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,1180,50,280,10,2.0
+Banana/Kela,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,50,890,11,230,3,3.0
+Apple/Seb,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Western",kg,120,520,3,140,2,3.0
+Orange/Santara,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,80,470,9,118,3,3.0
+Papaya/Papita,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,60,430,5,109,3,3.0
+Guava/Amrood,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,100,680,26,143,10,2.0
+Mango/Aam,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,100,600,8,150,4,2.0
+Watermelon/Tarbooz,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,40,300,6,76,2,4.0
+Pomegranate/Anar,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Mediterranean",kg,180,830,17,190,12,2.0
+Grapes/Angoor,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Western",kg,100,690,18,181,4,2.0
+Pineapple/Ananas,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,80,500,5,132,1,2.0
+Mosambi,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,80,430,7,100,3,3.0
+Pear/Nashpati,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Western",kg,120,570,4,152,4,2.0
+Kiwi,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,250,610,11,147,6,1.5
+Muskmelon/Kharbuja,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,60,340,8,80,2,3.0
+Amla,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,120,440,25,100,10,1.0
+Chikoo/Sapota,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,80,830,12,195,10,2.0
+Custard Apple/Sitaphal,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Tropical",kg,120,940,30,220,50,1.5
+Lychee/Litchi,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,Asian",kg,180,660,10,165,4,1.5
+Pasta,Grain,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,100,3500,130,720,15,3.0
+Whole Wheat Pasta,Grain,"Vegetarian,Vegan","Lunch,Dinner","Italian,Western",kg,140,3400,140,700,25,3.0
+Spaghetti,Grain,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,110,3500,130,730,15,2.0
+Couscous,Grain,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,180,3760,130,770,5,2.0
+Tortilla Wrap,Grain,Vegetarian,"Breakfast,Lunch,Dinner",Mexican,kg,180,3100,80,520,80,2.0
+Taco Shells,Grain,Vegetarian,"Lunch,Dinner",Mexican,kg,250,5000,70,600,250,1.0
+Pita Bread,Grain,Vegetarian,"Breakfast,Lunch",Mediterranean,kg,180,2750,90,550,20,2.0
+Rye Bread,Grain,Vegetarian,Breakfast,European,kg,180,2600,80,480,30,2.0
+Sourdough Bread,Grain,Vegetarian,Breakfast,European,kg,220,2700,90,520,35,2.0
+Bagel,Grain,Vegetarian,Breakfast,Western,kg,250,2700,100,530,20,1.0
+Corn Tortilla,Grain,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,220,2200,60,460,30,2.0
+Black Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,180,3400,220,620,15,2.0
+Kidney Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,150,3330,240,600,80,2.0
+Lentils,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Mediterranean,European",kg,140,3500,250,630,15,2.0
+Green Lentils,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,150,3400,240,620,10,2.0
+Split Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner",European,kg,130,3400,230,600,10,2.0
+Tofu,Protein,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,250,1450,170,20,90,2.0
+Firm Tofu,Protein,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,300,1500,180,15,95,2.0
+Tempeh,Protein,"Vegetarian,Vegan","Lunch,Dinner","Indonesian,Asian",kg,450,1950,200,80,110,1.0
+Seitan,Protein,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,500,1400,750,140,20,1.0
+Soy Milk,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Snack",International,litre,160,330,30,20,15,5.0
+Almond Milk,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Snack",International,litre,220,250,10,15,20,5.0
+Oat Milk,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Snack",International,litre,220,460,10,70,15,5.0
+Coconut Milk,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Cooking","Asian,Tropical",litre,180,1900,20,30,180,2.0
+Lettuce,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,150,150,10,28,2,2.0
+Kale,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,250,350,30,90,5,1.0
+Asparagus,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,350,200,22,40,2,1.0
+Celery,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,120,140,7,30,2,2.0
+Avocado,Fruit,"Vegetarian,Vegan","Breakfast,Lunch","Mexican,Western",kg,400,1600,20,85,150,1.0
+Olives,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,500,1150,10,60,110,0.5
+Artichoke,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,400,470,30,110,2,1.0
+Sweet Corn,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Mexican,American",kg,100,860,33,190,15,2.0
+Brussels Sprouts,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",European,kg,300,430,30,90,4,1.5
+Strawberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,350,320,7,77,3,1.0
+Blueberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,600,570,7,145,3,0.7
+Raspberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,700,520,12,120,7,0.7
+Blackberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,650,430,14,100,5,0.7
+Peach,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,300,390,9,95,3,1.0
+Plum,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,250,460,7,110,3,1.0
+Grapefruit,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,180,420,8,100,2,2.0
+Dragon Fruit,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Tropical,Asian",kg,300,600,11,130,4,1.5
+Passion Fruit,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Tropical,kg,500,970,20,230,7,0.7
+Coconut,Fruit,"Vegetarian,Vegan","Breakfast,Snack,Cooking","Tropical,Asian,Indian",kg,120,3540,33,150,330,1.0
+Peanuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,120,5670,260,160,490,1.0
+Almonds,Nuts,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,700,5790,210,220,500,0.5
+Walnuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack","Mediterranean,Western",kg,900,6540,150,140,650,0.5
+Cashews,Nuts,"Vegetarian,Vegan","Breakfast,Snack","Indian,Asian",kg,800,5530,180,300,440,0.5
+Pistachios,Nuts,"Vegetarian,Vegan","Breakfast,Snack","Mediterranean,Indian",kg,1000,5620,200,280,450,0.5
+Hazelnuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack",European,kg,900,6280,150,170,610,0.5
+Brazil Nuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack",International,kg,1200,6560,140,120,660,0.3
+Pumpkin Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Snack",International,kg,500,5590,300,110,490,0.5
+Chia Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Snack",International,kg,500,4860,170,420,310,0.4
+Flax Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,250,5340,180,290,420,0.5
+Sesame Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Lunch,Dinner","Indian,Asian",kg,220,5730,180,230,500,0.5
+Sunflower Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Snack",International,kg,300,5840,210,200,510,0.5
+Cornflakes,Breakfast,"Vegetarian,Vegan",Breakfast,Western,kg,180,3570,75,840,10,1.0
+Muesli,Breakfast,Vegetarian,Breakfast,Western,kg,250,3600,100,700,80,1.0
+Granola,Breakfast,Vegetarian,Breakfast,Western,kg,300,4500,90,650,180,1.0
+Peanut Butter,Spread,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,250,5880,250,200,500,0.5
+Makhana,Snack,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,300,3500,100,760,10,0.5
+Roasted Chana,Snack,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,120,3600,220,600,60,1.0
+Sattu,Pulse Flour,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,100,3800,220,580,60,2.0
+Idli Batter,Breakfast,"Vegetarian,Vegan",Breakfast,Indian,kg,80,1600,60,300,10,2.0
+Dosa Batter,Breakfast,"Vegetarian,Vegan","Breakfast,Dinner",Indian,kg,90,1700,55,320,20,2.0
+Hummus,Spread,"Vegetarian,Vegan","Breakfast,Snack,Lunch","Middle Eastern,Mediterranean",kg,300,1700,80,140,100,1.0
+Falafel,Protein,"Vegetarian,Vegan","Lunch,Dinner",Middle Eastern,kg,250,3300,130,300,170,1.0
+Tzatziki,Dairy,Vegetarian,"Lunch,Dinner",Greek,kg,250,700,40,40,50,1.0
+Mustard Oil,Oil,"Vegetarian,Vegan",Cooking,Indian,litre,150,8840,0,0,1000,0.5
+Groundnut Oil,Oil,"Vegetarian,Vegan",Cooking,Indian,litre,160,8840,0,0,1000,0.5
+Sunflower Oil,Oil,"Vegetarian,Vegan",Cooking,"Indian,International",litre,140,8840,0,0,1000,0.5
+Rice Bran Oil,Oil,"Vegetarian,Vegan",Cooking,Indian,litre,140,8840,0,0,1000,0.5
+Olive Oil,Oil,"Vegetarian,Vegan",Cooking,Mediterranean,litre,500,8840,0,0,1000,0.5
+Coconut Oil,Oil,"Vegetarian,Vegan",Cooking,"Asian,Tropical",litre,220,8840,0,0,1000,0.5
+Ghee,Fat,Vegetarian,Cooking,Indian,kg,650,9000,0,0,1000,0.5
+Butter,Fat,Vegetarian,"Breakfast,Cooking",Western,kg,500,7170,9,1,810,0.5
+Soy Sauce,Ingredient,"Vegetarian,Vegan",Cooking,Asian,litre,180,530,80,50,0,0.5
+Tahini,Spread,"Vegetarian,Vegan","Breakfast,Snack,Cooking",Middle Eastern,kg,500,5950,170,210,530,0.5
+Tomato Paste,Ingredient,"Vegetarian,Vegan","Lunch,Dinner","Italian,Western",kg,180,820,40,190,2,1.0
+Jaggery/Gur,Sweetener,"Vegetarian,Vegan","Breakfast,Snack,Cooking",Indian,kg,80,3800,0,950,0,0.5
+Honey,Sweetener,Vegetarian,"Breakfast,Snack",International,kg,250,3040,3,820,0,0.5
+Amaranth/Rajgira,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,140,3710,140,650,70,2.0
+Buckwheat/Kuttu Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner","Indian,European",kg,150,3430,130,710,35,2.0
+Sorghum Whole/Jowar,Grain,"Vegetarian,Vegan","Lunch,Dinner","Indian,African",kg,90,3290,110,720,30,2.0
+Teff,Grain,"Vegetarian,Vegan","Breakfast,Lunch",African,kg,300,3670,130,730,25,1.5
+Millet Flakes,Grain,"Vegetarian,Vegan",Breakfast,International,kg,180,3600,110,760,35,1.5
+Rolled Oats,Grain,"Vegetarian,Vegan",Breakfast,Western,kg,140,3890,169,663,69,2.0
+Steel Cut Oats,Grain,"Vegetarian,Vegan",Breakfast,Western,kg,180,3800,160,680,70,2.0
+Whole Wheat Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Western,kg,65,3400,130,720,25,5.0
+Cornmeal,Grain,"Vegetarian,Vegan","Breakfast,Lunch","American,Mexican",kg,100,3600,80,760,40,2.0
+Polenta,Grain,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,180,3500,80,760,10,2.0
+Soba Noodles,Grain,"Vegetarian,Vegan","Lunch,Dinner",Japanese,kg,300,3400,150,700,20,1.5
+Rice Noodles,Grain,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,180,3600,50,800,10,2.0
+Udon Noodles,Grain,"Vegetarian,Vegan","Lunch,Dinner",Japanese,kg,220,2700,80,570,5,2.0
+Egg Noodles,Grain,Non-Vegetarian,"Lunch,Dinner",Asian,kg,180,3800,130,700,70,2.0
+Black Gram Whole,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,150,3400,250,590,15,2.0
+White Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3400,230,600,15,2.0
+Adzuki Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner","Japanese,Asian",kg,300,3300,200,620,10,1.0
+Black Eyed Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner","African,International",kg,180,3350,240,620,15,2.0
+Cannellini Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,280,3350,210,620,15,1.5
+Navy Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,220,3370,220,630,10,1.5
+Pinto Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,220,3400,210,630,15,1.5
+Edamame,Pulse,"Vegetarian,Vegan","Breakfast,Lunch,Snack","Japanese,Asian",kg,250,1220,120,90,50,1.5
+Lupin Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,350,3700,360,120,90,1.0
+Skyr,Dairy,Vegetarian,"Breakfast,Snack","Nordic,Western",kg,300,630,110,40,5,2.0
+Cottage Cheese,Dairy,Vegetarian,"Breakfast,Lunch",Western,kg,350,980,120,30,40,1.5
+Mozzarella,Dairy,Vegetarian,"Lunch,Dinner",Italian,kg,600,2800,220,30,220,0.7
+Parmesan,Dairy,Vegetarian,"Lunch,Dinner",Italian,kg,900,4300,380,30,290,0.3
+Feta Cheese,Dairy,Vegetarian,"Lunch,Dinner","Greek,Mediterranean",kg,700,2650,140,40,210,0.5
+Ricotta,Dairy,Vegetarian,"Breakfast,Lunch",Italian,kg,450,1750,110,30,130,1.0
+Kefir,Dairy,Vegetarian,"Breakfast,Snack",Western,litre,180,600,35,50,30,3.0
+Soy Yogurt,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Snack",International,kg,250,600,45,55,25,2.0
+Coconut Yogurt,Dairy Alternative,"Vegetarian,Vegan","Breakfast,Snack",Tropical,kg,280,1200,15,50,100,1.5
+Turkey Breast,Protein,Non-Vegetarian,"Lunch,Dinner",Western,kg,600,1350,290,0,15,2.0
+Lean Beef,Protein,Non-Vegetarian,"Lunch,Dinner",Western,kg,650,2200,260,0,130,1.5
+Pork Loin,Protein,Non-Vegetarian,"Lunch,Dinner","Western,Asian",kg,550,2100,270,0,120,1.5
+Lamb,Protein,Non-Vegetarian,"Lunch,Dinner","Mediterranean,Middle Eastern",kg,750,2800,250,0,200,1.0
+Duck,Protein,Non-Vegetarian,"Lunch,Dinner","Asian,European",kg,700,3300,190,0,280,1.0
+Sardines,Protein,Non-Vegetarian,"Lunch,Dinner",Mediterranean,kg,350,2080,250,0,110,1.5
+Mackerel,Protein,Non-Vegetarian,"Lunch,Dinner","Indian,Asian,Mediterranean",kg,350,2050,240,0,140,1.5
+Cod,Protein,Non-Vegetarian,"Lunch,Dinner",European,kg,500,820,180,0,8,1.5
+Tilapia,Protein,Non-Vegetarian,"Lunch,Dinner",International,kg,350,960,200,0,35,2.0
+Crab,Protein,Non-Vegetarian,"Lunch,Dinner",International,kg,700,970,190,0,20,1.0
+Squid,Protein,Non-Vegetarian,"Lunch,Dinner","Asian,Mediterranean",kg,500,920,160,30,15,1.0
+Garlic,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Italian,Asian",kg,160,1490,64,330,5,0.5
+Ginger,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,Asian",kg,180,800,18,180,8,0.5
+Leek,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",European,kg,220,610,90,145,3,1.0
+Green Peas Fresh,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,European",kg,120,810,54,145,40,2.0
+Swiss Chard,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,250,190,20,40,3,1.0
+Collard Greens,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",American,kg,300,330,30,60,5,1.0
+Bok Choy,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Chinese,Asian",kg,180,130,13,25,2,2.0
+Chinese Cabbage,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Chinese,Asian",kg,150,160,13,30,2,2.0
+Bean Sprouts,Vegetable,"Vegetarian,Vegan","Breakfast,Lunch",Asian,kg,160,300,35,60,2,1.5
+Snow Peas,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,250,420,30,90,5,1.0
+Eggplant,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Mediterranean,Middle Eastern",kg,70,250,10,60,2,2.0
+Artichoke Hearts,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,450,470,30,110,2,1.0
+Green Bell Pepper,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,120,200,20,46,2,2.0
+Red Bell Pepper,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Mexican,Western",kg,140,310,10,60,3,2.0
+Yellow Bell Pepper,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Mexican,Western",kg,140,270,10,60,3,2.0
+Fennel Bulb,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Italian,Mediterranean",kg,300,310,16,72,2,1.0
+Turnip Greens,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Indian,International",kg,120,220,30,50,3,1.5
+Parsnip,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",European,kg,250,750,12,180,5,1.0
+Green Pumpkin,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,100,260,10,65,2,2.0
+Butternut Squash,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,220,450,10,120,3,1.5
+Sweet Corn Kernels,Vegetable,"Vegetarian,Vegan","Lunch,Dinner","Mexican,American",kg,120,860,33,190,15,2.0
+Cranberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,500,460,5,125,2,0.7
+Gooseberries,Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,European",kg,250,440,10,100,3,1.0
+Apricot,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,300,480,14,110,4,1.0
+Nectarine,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,300,440,10,110,3,1.0
+Tangerine,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,150,530,8,130,3,2.0
+Fig Fresh,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,350,740,20,190,3,1.0
+Prunes,Dry Fruit,"Vegetarian,Vegan","Breakfast,Snack",European,kg,400,2400,20,640,4,0.5
+Dried Apricots,Dry Fruit,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,450,2400,35,620,5,0.5
+Dried Figs,Dry Fruit,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,450,2500,30,630,10,0.5
+Raisins,Dry Fruit,"Vegetarian,Vegan","Breakfast,Snack","Indian,International",kg,300,2990,30,790,3,0.5
+Pecans,Nuts,"Vegetarian,Vegan","Breakfast,Snack",American,kg,1000,6910,90,140,720,0.4
+Macadamia Nuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack",Australian,kg,1500,7180,80,140,760,0.3
+Pine Nuts,Nuts,"Vegetarian,Vegan","Breakfast,Snack",Mediterranean,kg,1200,6730,140,130,680,0.4
+Hemp Seeds,Seeds,"Vegetarian,Vegan","Breakfast,Snack",International,kg,900,5530,310,80,490,0.4
+Sesame Seed Butter,Spread,"Vegetarian,Vegan","Breakfast,Snack",Middle Eastern,kg,550,5950,170,210,530,0.5
+Sushi Rice,Grain,"Vegetarian,Vegan","Lunch,Dinner",Japanese,kg,180,3600,70,800,5,2.0
+Miso,Protein,"Vegetarian,Vegan","Lunch,Dinner",Japanese,kg,300,2000,120,260,60,0.7
+Kimchi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Korean,kg,250,400,20,60,5,1.0
+Nori Seaweed,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Japanese,kg,1500,3500,400,400,50,0.1
+Rice Paper,Grain,"Vegetarian,Vegan","Lunch,Dinner",Vietnamese,kg,350,3500,50,800,5,1.0
+Coconut Cream,Dairy Alternative,"Vegetarian,Vegan",Cooking,"Thai,Asian",litre,250,2100,20,40,220,1.0
+Water Chestnut,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,250,970,20,220,2,1.0
+Bamboo Shoots,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Asian,kg,250,270,25,50,2,1.0
+Pak Choi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Chinese,kg,180,130,13,25,2,2.0
+Tofu Skin,Protein,"Vegetarian,Vegan","Lunch,Dinner",Chinese,kg,450,3000,450,120,180,0.8
+Bulgur,Grain,"Vegetarian,Vegan","Lunch,Dinner","Middle Eastern,Mediterranean",kg,180,3420,120,760,15,2.0
+Farro,Grain,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,300,3400,150,700,30,1.5
+Orzo,Grain,"Vegetarian,Vegan","Lunch,Dinner",Italian,kg,180,3500,130,730,15,2.0
+Halloumi,Dairy,Vegetarian,"Lunch,Dinner",Mediterranean,kg,800,3200,220,20,250,0.5
+Labneh,Dairy,Vegetarian,"Breakfast,Snack",Middle Eastern,kg,350,1500,90,50,110,1.0
+White Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mediterranean,kg,180,3300,210,620,15,2.0
+Muhammara,Spread,"Vegetarian,Vegan","Breakfast,Snack",Middle Eastern,kg,500,2500,70,180,180,0.5
+Refried Beans,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,180,3300,210,600,40,1.5
+Black Bean Pasta,Grain,"Vegetarian,Vegan","Lunch,Dinner","Mexican,Western",kg,300,3300,250,550,35,1.5
+Salsa,Ingredient,"Vegetarian,Vegan","Lunch,Dinner",Mexican,kg,180,300,15,60,2,1.0
+Guacamole,Spread,"Vegetarian,Vegan","Breakfast,Snack,Lunch",Mexican,kg,500,1600,20,85,150,1.0
+Plantain,Fruit,"Vegetarian,Vegan","Lunch,Dinner","Caribbean,African",kg,100,1220,15,315,5,2.0
+Potato Wedges,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Western,kg,180,3000,40,450,130,1.5
+Peas Protein,Protein,"Vegetarian,Vegan","Breakfast,Lunch",Western,kg,500,3600,800,100,50,0.8
+Protein Pasta,Grain,Vegetarian,"Lunch,Dinner",Western,kg,350,3400,250,600,50,1.5
+Pancake Mix,Breakfast,Vegetarian,Breakfast,Western,kg,160,3600,90,750,30,1.5
+Maple Syrup,Sweetener,"Vegetarian,Vegan",Breakfast,"Canadian,Western",litre,700,2600,0,670,0,0.3
+Cocoa Powder,Ingredient,"Vegetarian,Vegan","Breakfast,Snack",Western,kg,500,2300,200,580,140,0.3
+Dark Chocolate,Snack,Vegetarian,Snack,Western,kg,900,5900,80,460,430,0.3
+Popcorn Kernels,Snack,"Vegetarian,Vegan",Snack,American,kg,120,3800,130,780,45,1.0
+Whole Grain Crackers,Snack,"Vegetarian,Vegan",Snack,Western,kg,220,4300,100,700,130,1.0
+Tinned Tuna,Protein,Non-Vegetarian,"Lunch,Dinner",Western,kg,650,1160,260,0,20,0.8
+Greek Salad Mix,Vegetable,Vegetarian,"Lunch,Dinner",Greek,kg,250,500,20,50,30,2.0
+Falafel Mix,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Middle Eastern,kg,220,3500,180,500,90,1.5
+Makki Atta,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,70,3600,80,760,35,3.0
+Sama Rice,Grain,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,140,3500,70,750,25,2.0
+Sabudana,Grain,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,80,3500,10,870,2,2.0
+Singhara Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,180,3400,60,750,20,1.5
+Rajgira Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,180,3700,140,650,70,1.5
+Thalipeeth Flour,Grain,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,120,3500,110,680,35,2.0
+Sattu Flour,Pulse Flour,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,110,3800,220,580,60,2.0
+Panchmel Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,140,3450,230,610,25,2.0
+Matki,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,130,3400,230,620,15,2.0
+Kulith Dal,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,140,3300,220,590,15,2.0
+Masoor Whole,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,3500,250,620,15,2.0
+Green Moong Whole,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,130,3450,240,620,15,2.0
+Kabuli Chana,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,110,3640,190,610,60,2.0
+Black Urad,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,150,3400,250,590,15,2.0
+Soy Flour,Protein,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,180,4200,360,300,180,1.0
+Sprouted Chana,Pulse,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,130,1100,80,190,20,2.0
+Sprouted Moth,Pulse,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,130,1100,80,190,10,2.0
+Hung Curd,Dairy,Vegetarian,"Breakfast,Snack",Indian,kg,140,900,100,60,40,2.0
+Fresh Chaas,Dairy,Vegetarian,"Breakfast,Lunch",Indian,litre,55,400,16,30,16,5.0
+Khoya/Mawa,Dairy,Vegetarian,"Breakfast,Snack",Indian,kg,450,3200,180,180,220,0.5
+Tinda,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,160,8,35,2,2.0
+Parwal,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,80,200,10,40,2,2.0
+Kundru/Ivy Gourd,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,250,12,50,2,2.0
+Gawar Phali,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,320,20,65,3,2.0
+Kachri,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,90,220,10,45,2,1.5
+Sarson Saag,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,80,270,25,45,3,2.0
+Bathua,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,250,30,40,5,2.0
+Chaulai/Amaranth Greens,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,90,230,28,40,4,2.0
+Lotus Stem/Kamal Kakdi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,140,740,20,170,2,2.0
+Raw Mango,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,100,600,8,150,4,2.0
+Jamun,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,180,620,15,145,5,1.5
+Ber,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,120,700,20,170,5,1.5
+Bael,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,120,1370,20,320,15,1.5
+Karonda,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,180,500,10,120,3,1.0
+Kokum,Fruit,"Vegetarian,Vegan","Snack,Cooking",Indian,kg,250,700,10,170,2,0.5
+Phalsa,Fruit,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,220,500,15,120,5,1.0
+Thepla,Prepared Food,Vegetarian,"Breakfast,Lunch",Indian,kg,180,3000,100,500,90,1.5
+Khakhra,Prepared Food,Vegetarian,"Breakfast,Snack",Indian,kg,220,4000,120,650,90,1.0
+Missi Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,150,3000,130,600,50,2.0
+Makki Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,160,3300,80,700,40,2.0
+Multigrain Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,160,3000,120,600,40,2.0
+Bajra Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,150,3300,110,650,50,2.0
+Jowar Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,150,3200,100,670,35,2.0
+Ragi Roti,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch,Dinner",Indian,kg,160,3200,80,650,35,2.0
+Sabudana Khichdi,Prepared Food,"Vegetarian,Vegan","Breakfast,Lunch",Indian,kg,180,2800,40,500,100,1.5
+Poha Prepared,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,140,1800,50,350,35,2.0
+Upma Prepared,Prepared Food,Vegetarian,Breakfast,Indian,kg,150,1900,60,330,50,2.0
+Vegetable Khichdi,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,160,1600,70,270,25,3.0
+Dal Khichdi,Prepared Food,Vegetarian,"Lunch,Dinner",Indian,kg,180,1700,90,280,30,3.0
+Rajma Chawal,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,200,1700,70,300,25,2.0
+Chole Chawal,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,200,1800,70,310,30,2.0
+Dal Tadka,Prepared Food,Vegetarian,"Lunch,Dinner",Indian,kg,180,1300,80,170,40,2.0
+Palak Paneer,Prepared Food,Vegetarian,"Lunch,Dinner",Indian,kg,300,2200,130,100,150,1.5
+Chana Masala,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,200,1500,80,230,35,2.0
+Aloo Gobi,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,160,1100,35,180,30,2.0
+Bhindi Sabzi,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,1000,35,130,40,2.0
+Baingan Bharta,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,900,25,120,35,2.0
+Lauki Dal,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,1000,70,140,25,2.0
+Sambar,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,900,55,130,15,2.0
+Rasam,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,160,500,20,80,8,3.0
+Vegetable Pulao,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,190,1500,40,260,35,2.0
+Biryani Rice,Prepared Food,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,220,1800,40,280,50,2.0
+Chicken Biryani,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,350,1900,110,240,55,2.0
+Egg Biryani,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,300,1800,100,250,45,2.0
+Fish Curry,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,350,1200,160,60,50,2.0
+Chicken Tikka,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,400,1650,300,40,45,1.5
+Tandoori Chicken,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,380,1700,290,30,60,1.5
+Mutton Curry,Prepared Food,Non-Vegetarian,"Lunch,Dinner",Indian,kg,750,2500,230,40,170,1.0
+Dhokla,Prepared Food,Vegetarian,"Breakfast,Snack",Indian,kg,200,1500,80,250,25,1.5
+Idli,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,160,1500,50,300,10,2.0
+Plain Dosa,Prepared Food,"Vegetarian,Vegan","Breakfast,Dinner",Indian,kg,180,1900,50,300,50,2.0
+Uttapam,Prepared Food,"Vegetarian,Vegan","Breakfast,Dinner",Indian,kg,200,1800,60,280,45,2.0
+Appam,Prepared Food,"Vegetarian,Vegan","Breakfast,Dinner",Indian,kg,220,1800,40,330,30,2.0
+Pesarattu,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,200,1700,100,250,25,2.0
+Misal Pav,Prepared Food,Vegetarian,"Breakfast,Lunch",Indian,kg,220,1800,70,280,50,2.0
+Pav Bhaji,Prepared Food,Vegetarian,"Lunch,Dinner",Indian,kg,220,1500,45,230,45,2.0
+Vada Pav,Prepared Food,Vegetarian,"Breakfast,Snack",Indian,kg,180,3000,70,450,120,1.5
+Vegetable Paratha,Prepared Food,Vegetarian,"Breakfast,Lunch",Indian,kg,180,3000,90,450,100,2.0
+Aloo Paratha,Prepared Food,Vegetarian,"Breakfast,Lunch",Indian,kg,170,3100,80,470,100,2.0
+Paneer Paratha,Prepared Food,Vegetarian,"Breakfast,Lunch",Indian,kg,280,3000,130,400,110,1.5
+Pesarattu Batter,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,180,3300,220,550,25,2.0
+Kadhi,Prepared Food,Vegetarian,"Lunch,Dinner",Indian,kg,180,1100,55,100,45,2.0
+Moong Chilla,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,200,1600,130,230,30,2.0
+Besan Chilla,Prepared Food,"Vegetarian,Vegan",Breakfast,Indian,kg,190,1700,130,250,40,2.0
+Khandvi,Prepared Food,Vegetarian,"Breakfast,Snack",Indian,kg,280,1800,90,230,50,1.0
+Shrikhand,Dairy,Vegetarian,"Breakfast,Snack",Indian,kg,350,3000,90,400,100,0.7
+Poha Chivda,Snack,"Vegetarian,Vegan",Snack,Indian,kg,180,4500,80,650,180,1.0
+Bhel Puri,Snack,"Vegetarian,Vegan",Snack,Indian,kg,180,2500,60,400,60,1.5
+Roasted Makhana,Snack,"Vegetarian,Vegan",Snack,Indian,kg,350,3600,100,760,20,0.5
+Peanut Chikki,Snack,Vegetarian,Snack,Indian,kg,300,5200,180,500,280,0.5
+Til Chikki,Snack,"Vegetarian,Vegan",Snack,Indian,kg,350,5200,180,500,300,0.5
+Dry Coconut Copra,Nuts,"Vegetarian,Vegan","Breakfast,Snack",Indian,kg,300,6600,70,240,620,0.5
+Moringa Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,640,90,130,15,1.0
+Drumstick Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,640,90,130,15,1.0
+Colocasia Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,450,50,90,5,1.0
+Agathi Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,450,70,80,5,1.0
+Amaranth Leaves,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,230,28,40,4,2.0
+Kohlrabi/Ganth Gobi,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,80,270,20,60,2,2.0
+Chow Chow/Chayote,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,190,8,45,1,2.0
+Snake Gourd,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,70,180,8,40,2,2.0
+Ash Gourd,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,50,130,8,30,1,3.0
+Cluster Beans,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,100,310,20,65,3,2.0
+Broad Beans,Vegetable,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,120,340,25,65,3,2.0
+Green Chickpeas,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,150,1100,80,180,25,2.0
+Fresh Toor Pigeon Peas,Pulse,"Vegetarian,Vegan","Lunch,Dinner",Indian,kg,180,1100,70,180,15,2.0
